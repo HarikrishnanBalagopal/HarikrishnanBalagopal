@@ -10,3 +10,5 @@
 - 📫 How to reach me: My website [https://haribala.dev/](https://haribala.dev/)
 - ⚡ Fun fact: There are always at least 2 diametrically opposite points on the Earth that are the EXACT same temperature. See https://youtu.be/5Px6fajpSio
   - More fun facts about anti-podal points https://youtu.be/G2Blr0LycOI
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarikrishnanBalagopal)](https://git.io/streak-stats)
