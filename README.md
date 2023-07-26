@@ -1,6 +1,6 @@
-**HarikrishnanBalagopal/HarikrishnanBalagopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hello there! ✨
 
-Here are some ideas to get you started:
+![dog-samoyed-head-tilt](https://github.com/HarikrishnanBalagopal/HarikrishnanBalagopal/assets/20921177/dcaf99aa-9209-482d-8ab4-2b2c6e4412c3)
 
 - 🔭 I’m currently working on https://move2kube.konveyor.io/
 - 🌱 I’m currently learning WebAssembly and Rust.
