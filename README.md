@@ -13,4 +13,4 @@
   - Borsuk–Ulam theorem https://en.wikipedia.org/wiki/Borsuk%E2%80%93Ulam_theorem
   - More fun facts about anti-podal points https://youtu.be/G2Blr0LycOI
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarikrishnanBalagopal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarikrishnanBalagopal&theme=ocean-gradient)](https://git.io/streak-stats)
