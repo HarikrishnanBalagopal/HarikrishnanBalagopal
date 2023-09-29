@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning WebAssembly and Rust https://haribala.dev/simple-physics/
 - 👯 I’m looking to collaborate on open source projects like https://github.com/tinygo-org/tinygo
 - 🤔 I’m looking for help with Move2Kube https://github.com/konveyor/move2kube and LFX Mentorship https://github.com/cncf/mentoring/pull/1037/files
-- 💬 Ask me about my ShaderToy shaders https://haribala.dev/assets/html/shaders/
+- 💬 Ask me about my ShaderToy shaders https://haribala.dev/assets/html/shaders/ and my CodePens https://codepen.io/collection/waqNOY
 - 📫 How to reach me: My website [https://haribala.dev/](https://haribala.dev/)
 - ⚡ Fun fact: There are always at least 2 diametrically opposite points on the Earth that are the EXACT same temperature.
   - Proof https://youtu.be/5Px6fajpSio
